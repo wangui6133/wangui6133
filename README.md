@@ -1,16 +1,16 @@
-## Hi there 👋
-I am virginia a programmer student
-<!--
-**wangui6133/wangui6133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+I'm **virginia**, and I'm just starting out on my coding journey 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+- Learning **HTML, CSS, and JavaScript**
+- Exploring how to build simple websites
+- Excited to learn something new every day
+
+## 🔧 Tools I Use
+- VS Code  
+- Git & GitHub  
+- A lot of Google and Stack Overflow 😅  
+
+## 📫 Let's Connect
+- GitHub: [@wangui6133](https://github.com/wangui6133)
